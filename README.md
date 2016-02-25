@@ -1,0 +1,1 @@
+This is a simple bash script to rebuild the directory and permissions for a partition I use on most servers.  Pretty simple it just checks if a folder is there, creates it if it isn't, then checks the permissions, then changes them if necessary.
