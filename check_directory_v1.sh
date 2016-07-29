@@ -93,4 +93,4 @@ else
 echo "Ownership is not correct...Fixing......";chown pindrop:pindrop /data/fds/encrypted_audio;
 fi
 
-
+echo "This script is finished"
